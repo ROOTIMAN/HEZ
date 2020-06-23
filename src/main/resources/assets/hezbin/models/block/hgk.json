@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "hezbin:blocks/download",
+    "up": "hezbin:blocks/download",
+    "north": "hezbin:blocks/download",
+    "east": "hezbin:blocks/download",
+    "south": "hezbin:blocks/download",
+    "west": "hezbin:blocks/download",
+    "particle": "hezbin:blocks/download"
+  }
+}
